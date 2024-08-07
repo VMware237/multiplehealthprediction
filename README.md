@@ -24,3 +24,8 @@ Developed a robust Multiple Disease Prediction System using advanced machine lea
 ## Impact 
 The system is deployed as a web application, making it accessible to healthcare providers for early disease intervention, which is crucial for effective treatment planning. My role in designing algorithms and deploying the solution demonstrates my capability in handling complex medical datasets and applying sophisticated machine learning techniques to solve real-world problems.
 
+<img width="1458" alt="Screenshot 2024-08-07 at 2 09 57 PM" src="https://github.com/user-attachments/assets/fb5872da-9146-4d08-a7ad-c0a6176fca88">
+<img width="1470" alt="Screenshot 2024-08-07 at 2 11 03 PM" src="https://github.com/user-attachments/assets/ff4e62c0-c54f-4fee-9a8a-3cb097058b19">
+<img width="1470" alt="Screenshot 2024-08-07 at 2 11 54 PM" src="https://github.com/user-attachments/assets/8eee187e-3503-482b-aaf8-ce8a3db27aaa">
+
+
