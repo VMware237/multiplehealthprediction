@@ -25,6 +25,7 @@ Developed a robust Multiple Disease Prediction System using advanced machine lea
 
 **Deployment and Application Development**
 - Streamlit Web Application: Developed and deployed a Streamlit-based web application, providing an intuitive and interactive user interface for real-time disease prediction. This enabled users to input patient data and receive instant predictive insights, facilitating practical healthcare applications.
+https://multiplehealthprediction-ff6z564uwqgcmryqq7vza3.streamlit.app
 
 ## Impact 
 The system is deployed as a web application, making it accessible to healthcare providers for early disease intervention, which is crucial for effective treatment planning. My role in designing algorithms and deploying the solution demonstrates my capability in handling complex medical datasets and applying sophisticated machine learning techniques to solve real-world problems.
